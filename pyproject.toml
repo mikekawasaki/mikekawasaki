@@ -1,0 +1,12 @@
+[project]
+name = "mikekawasaki"
+version = "0.1.0"
+description = "Mike Kawasaki's GitHub bio preview"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "grip",
+]
+
+[tool.uv.sources]
+grip = { git = "https://github.com/joeyespo/grip.git" }
