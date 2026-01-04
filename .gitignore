@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+.env
+
+# uv
+uv.lock
+
+# MacOS
+.DS_Store
