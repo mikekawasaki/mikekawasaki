@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "grip",
+    "python-dotenv>=1.2.1",
 ]
 
 [tool.uv.sources]

@@ -6,6 +6,21 @@ I use [grip](https://github.com/joeyespo/grip) to preview the GitHub profile REA
 
 - [uv](https://github.com/astral-sh/uv) must be installed.
 
+## Rate Limiting
+
+If you encounter GitHub API rate limits (60 requests/hour), you can use a Personal Access Token (PAT).
+
+1. [Generate a standard token](https://github.com/settings/tokens) (repo scope usually sufficient, or public_repo for public setup).
+2. Copy `.env.example` to `.env`:
+   ```bash
+   cp .env.example .env
+   ```
+3. Edit `.env` and paste your token:
+   ```env
+   GITHUB_TOKEN=ghp_...
+   ```
+
+
 ## Running the Preview
 
 To start the local preview server:
