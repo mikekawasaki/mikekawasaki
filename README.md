@@ -16,7 +16,7 @@ Check out my [website: MKK](https://www.mikekawasaki.com/) for more information.
 <table>
   <tr>
     <td width="50%" align="center">
-      <p>Home (with Pong Game Playable on Browser. Angets are trained through Reinforcement Learning)</p>
+      <p>Home (with Pong Game Playable on Browser. Agents are trained through Reinforcement Learning)</p>
     </td>
     <td width="50%" align="center">
       <p>Knowledge Base with Local Graph</p>
