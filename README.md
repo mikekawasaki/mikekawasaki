@@ -24,10 +24,10 @@ Check out my [website: MKK](https://www.mikekawasaki.com/) for more information.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/mkk-pong-demo.gif" alt="Home" width="100%">
+      <img src="https://raw.githubusercontent.com/mikekawasaki/mikekawasaki/main/assets/mkk-pong-demo.gif" alt="Home" width="100%">
     </td>
     <td width="50%" valign="top">
-      <img src="assets/mkk-fe-screenshot-pkm.gif" alt="Knowledge Base" width="100%">
+      <img src="https://raw.githubusercontent.com/mikekawasaki/mikekawasaki/main/assets/mkk-fe-screenshot-pkm.gif" alt="Knowledge Base" width="100%">
     </td>
   </tr>
   <tr>
@@ -40,10 +40,10 @@ Check out my [website: MKK](https://www.mikekawasaki.com/) for more information.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/mkk-fe-screenshot-projects.gif" alt="Projects" width="100%">
+      <img src="https://raw.githubusercontent.com/mikekawasaki/mikekawasaki/main/assets/mkk-fe-screenshot-projects.gif" alt="Projects" width="100%">
     </td>
     <td width="50%" valign="top">
-      <img src="assets/mkk-mike3-demo.gif" alt="Mike3 Demo" width="100%">
+      <img src="https://raw.githubusercontent.com/mikekawasaki/mikekawasaki/main/assets/mkk-mike3-demo.gif" alt="Mike3 Demo" width="100%">
     </td>
   </tr>
 </table>
