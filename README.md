@@ -9,6 +9,8 @@ I enjoy programming, home labbing, and building things with all kinds of technol
 [![Github](https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mikekawasaki)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mike.r.kawasaki@gmail.com)
 
+Or reach out to me at: mike.r.kawasaki@gmail.com.
+
 ## My Website: MKK
 Check out my [website: MKK](https://www.mikekawasaki.com/) for more information. Here you can find my [projects](https://www.mikekawasaki.com/projects), [blog posts](https://www.mikekawasaki.com/blog), [personal knowledge base](https://www.mikekawasaki.com/pkm), and a bit more [about me](https://www.mikekawasaki.com/blog/about-202512/).
 
