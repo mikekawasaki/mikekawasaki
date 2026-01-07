@@ -5,6 +5,7 @@ I enjoy programming, home labbing, and building things with all kinds of technol
 
 ## Where to find me
 [![My Website](https://img.shields.io/badge/MyWebsite-%231db954.svg?&style=for-the-badge&logo=astro&logoColor=white)](https://www.mikekawasaki.com/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/mikekawazacky)
 [![BlueSky](https://img.shields.io/badge/BlueSky-%231185FE.svg?&style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/mikekawasaki.bsky.social)
 [![Github](https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mikekawasaki)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mike.r.kawasaki@gmail.com)
